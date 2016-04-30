@@ -41,8 +41,8 @@ class mail
 
     protected:
     private:
-        mailservice *head;
-        mailservice *tail;
+        mailservice *head = NULL;
+        mailservice *tail = NULL;
         mailservice *head2;
 };
 
