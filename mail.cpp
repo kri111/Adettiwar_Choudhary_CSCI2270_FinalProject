@@ -137,6 +137,10 @@ void mail::build2()
 
 void mail::addCity(std::string newCity, std::string previousCity)
 {
+  if (!head) {
+    cout << "You have to build the network before adding a city" << endl;
+    return;
+  }
     mailservice *temps =head;
     while(temps->next != NULL){
 
