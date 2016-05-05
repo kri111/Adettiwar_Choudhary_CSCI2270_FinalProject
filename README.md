@@ -13,8 +13,7 @@ This program relies on no third-party libraries. There are no dependencies. It s
 Only tested on Ubuntu. Should compile anywhere though. If there are any issues are does not compile in a speific environment, please file an issue and we will try to resolve it.
 
 # Group Members
-Krishna Adettiwar\n
-Tanay Choudhary
+Krishna Adettiwar, Tanay Choudhary
 
 # Contributors
 Github username: RaphaelHythloday
